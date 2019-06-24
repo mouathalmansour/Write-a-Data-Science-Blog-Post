@@ -26,6 +26,8 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 here are 1 notebooks available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells & comments were used to assist in walking through the thought process for individual steps.
 
+Also, there are 3 csv files that contain all the data.
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
